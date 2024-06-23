@@ -38,7 +38,7 @@ public class SMSystem {
 
     public static void testPosts() throws SQLException
     {
-        User.addUser(new User("Lc9", "lukacondric7@gmail.com", ""), "12345678".hashCode(), connection);
+        User.addUser(new User("Test", "test@gmail.com", ""), "12345678".hashCode(), connection);
             
         // Add series
         Series.addSeries(new Series("Naruto", "Naruto", ""), connection);
