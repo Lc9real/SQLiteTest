@@ -50,7 +50,7 @@ public class SMSystem {
         Comment.addComment(new Comment(1, 1, null, "He kinda is"), connection);
         Comment.addComment(new Comment(1, 1, 1, "WTF"), connection);
         Comment.addComment(new Comment(1, 1, 1, "Yeah, I think the same"), connection);
-        Comment.addComment(new Comment(1, 1, 2, "You retard he is right"), connection);
+        Comment.addComment(new Comment(1, 1, 2, "You dumb guy he is right"), connection);
         Comment.addComment(new Comment(1, 1, 4, "This guy gets it ^"), connection);
 
         Post.addPost(new Post(1, 1, 2, 1, "Sasuke's Emo Phase", "Why so serious?"), connection);
