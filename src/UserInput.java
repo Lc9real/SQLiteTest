@@ -14,7 +14,7 @@ public class UserInput
     {
 
         try
-        {
+        {   //tes
             int postCount = 10;
             int lastPost = 0;
             int series = 0;
