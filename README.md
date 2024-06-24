@@ -2,7 +2,7 @@
 
  #Commands
  
- exit: exits the program
+ exit: exits the program \n
  posts (random; top; newest): displays posts 
  post #(postID): displays a Post
  comments: displays comments of the last opend Post
